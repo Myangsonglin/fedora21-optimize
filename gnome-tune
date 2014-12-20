@@ -1,0 +1,4 @@
+desktop: /home/javatar/Desktop, /home/javatar/.local/share/applications
+themes Adwaita: /usr/share/themes/Adwaita/metacity-1/metacity-theme-3.xml
+gnome-shell: /usr/share/gnome-shell/theme/gnome-shell.css
+font: /usr/share/fonts
